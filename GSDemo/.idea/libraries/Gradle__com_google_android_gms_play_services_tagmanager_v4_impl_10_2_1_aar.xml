@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5987085848297642beb5f20920e39ab/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5987085848297642beb5f20920e39ab/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79943113ae18bdc7716b646fc5ca089c/jetified-play-services-tagmanager-v4-impl-10.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79943113ae18bdc7716b646fc5ca089c/jetified-play-services-tagmanager-v4-impl-10.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79943113ae18bdc7716b646fc5ca089c/jetified-play-services-tagmanager-v4-impl-10.2.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
